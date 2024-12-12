@@ -2,7 +2,7 @@ let respecConfig = {
 //  useLogo: true,
 //  useLabel: true,
 //  license: "eupl",
-  shortName: "Locatie",
+  shortName: "Organisatie",
   pubDomain: "hl",
 
   // Zie de globale property 'localizationStrings/nl' voor de lijst met toegestane specificatie-types
@@ -18,8 +18,8 @@ let respecConfig = {
   //previousPublishDate: "2022-06-24",
   //previousPublishVersion: "0.0.4",
   
-  title: "Locatie",
-  subtitle: "Locatie is een submodel van ontologie Inkomen",
+  title: "Organisatie",
+  subtitle: "Organisatie is een submodel van ontologie Inkomen",
   content: {"mermaid": "", "ch01": "informative", "ch02": ""},
 //  authors:
 //    [
@@ -37,7 +37,7 @@ let respecConfig = {
         companyURL: "https://vng.nl/artikelen/vng-realisatie",
       }
     ],
-  github: "https://github.com/VNG-Realisatie/Locatie",
+  github: "https://github.com/VNG-Realisatie/Organisatie",
 
   //  maxTocLevel: 2,
 
@@ -45,7 +45,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "Locatie.pdf",
+          uri: "Organisatie.pdf",
   //        uri: "Respec-bij-VNG-R.pdf",
       },
     ],
